@@ -1,0 +1,74 @@
+body{
+    color: white;
+    background-color: rgb(58, 58, 58);
+}
+table{
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+td,th{
+    border: 1px solid rgb(98, 97, 97);
+    text-align: center;
+    padding: 12px 7px;
+}
+th:first-child{
+    text-align: left;
+}
+/* first-child  -  პირველი th გაისტილება */
+.promotionplans{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: calibre;
+}
+.leftside{
+    text-align: left;
+}
+.bigpadding{
+    padding: 20px 5px;
+}
+.bigfont{
+    font-size: 30px;
+}
+.mediumth{
+    padding: 12px 50px;
+}
+button{
+    padding: 7px 17px;
+    border-radius: 30px;
+    color: white;
+    background-color: red;
+    border: none;
+}
+button:hover{
+    background-color: rgb(150, 1, 1);
+    cursor: pointer;
+}
+i{
+    color: orange;
+    font-size: 35px;
+}
+.starter{
+    background-color: orange;
+}
+.advance{
+    background-color: red;
+}
+.enterprise{
+    background-color: aqua;
+}
+.dollar1{
+    color: orange;
+}
+.dollar2{
+    color: red;
+}
+.dollar3{
+    color: aqua;
+}
+.compare{
+    color: black;
+    background-color: white;
+}
